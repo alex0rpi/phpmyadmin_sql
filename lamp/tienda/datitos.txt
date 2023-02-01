@@ -1,0 +1,17 @@
+PIANO
+	Funda
+	Ruedas
+	Banqueta
+CUERDA
+	Resina
+	Cuerdas
+	Arco
+VM
+	Cañas
+	Soporte
+	Toalla
+
+PERCUSION
+	Timbal
+	Bombo
+	Marimba
